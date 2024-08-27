@@ -38,4 +38,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-Special thanks to [insert any resources or libraries that were helpful].
+Special thanks to Harsh, Hailey, and myself.
